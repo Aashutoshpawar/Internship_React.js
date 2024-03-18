@@ -1,1 +1,16 @@
+To set up local enviornment 
+  1.create-React-App
+  2.Vite - create vite@latest/ select react / with javascript 
 
+*JSX*
+  - the jsx stands for javasript extension syntax
+  - it lets us write HTML directly inside javaScript file
+
+*Rewriting App*
+
+  App.jsx
+    import react from 'react';
+    function App(){
+      return <h1> hello world </h1>
+    }
+  export default App;
